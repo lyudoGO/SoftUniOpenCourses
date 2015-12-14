@@ -1,0 +1,10 @@
+IdeaPad Z560;Lenovo;1536.50
+ThinkPad T410;Lenovo;3000
+IdeaPad Z360;Lenovo;536.50
+ThinkPad T820;Lenovo;2300
+ThinkPad T910;Lenovo;3100
+IdeaPad D230;Lenovo;2500
+ThinkPad T410;Lenovo;3000
+IdeaPad Z390;Lenovo;536.50
+ThinkPad T830;Lenovo;2300
+IdeaPad D230;Lenovo;1500

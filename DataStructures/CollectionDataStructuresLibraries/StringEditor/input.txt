@@ -1,0 +1,59 @@
+APPEND proba
+APPEND proba
+APPEND proba
+APPEND proba
+APPEND proba
+APPEND proba
+APPEND proba
+APPEND proba
+APPEND proba
+APPEND proba
+APPEND proba
+APPEND proba
+APPEND proba
+APPEND proba
+APPEND proba
+APPEND proba
+APPEND proba
+APPEND proba
+APPEND proba
+APPEND proba
+APPEND proba
+APPEND proba
+APPEND proba
+APPEND proba
+APPEND proba
+APPEND proba
+APPEND proba
+APPEND proba
+APPEND proba
+APPEND proba
+APPEND proba
+APPEND proba
+APPEND proba
+APPEND proba
+APPEND proba
+APPEND proba
+INSERT PROBA 10
+APPEND mnogomerie
+APPEND mnogomerie
+APPEND mnogomerie
+INSERT PROBA 20
+INSERT PROBA 30
+INSERT PROBA 40
+APPEND mnogomerie
+APPEND mnogomerie
+APPEND mnogomerie
+INSERT PROBA 50
+INSERT PROBA 60
+APPEND mnogomerie
+APPEND mnogomerie
+APPEND mnogomerie
+INSERT PROBA 70
+APPEND mnogomerie
+APPEND mnogomerie
+APPEND mnogomerie
+REPLACE 100 10 GLUPOSTGOL
+APPEND THE
+APPEND END
+PRINT
