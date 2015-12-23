@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1445456736 source:c:\users\nemo\documents\programming\fasttrack\c programming\my-homework\06-c-loops\04.printdeck52cards\main.c
+	<stdio.h>
+	<string.h>
+

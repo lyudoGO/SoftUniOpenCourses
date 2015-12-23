@@ -1,0 +1,10 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=00401565
+eax=00000020 ebx=00000002 ecx=00000000 edx=00000005 esi=00000003 edi=00000000
+ebp=0022CAC8 esp=0022CAB4 program=C:\Users\nemo\Documents\Programming\FastTrack\C Programming\My-homework\08-C-Arrays\14.SumMatrices\dist\Debug\Cygwin_4.x-Windows\14.summatrices, pid 3716, thread main
+cs=001B ds=0023 es=0023 fs=003B gs=0000 ss=0023
+Stack trace:
+Frame     Function  Args
+0022CAC8  00401565 (0022CB24, 0022CB04, 0022CAE4, 00000002)
+0022CBC8  004014ED (20040E54, 611CCFAE, 0022CD28, 6100845A)
+0022CD28  6100845A (00000000, 0022CD84, 610074E0, 00000000)
+End of stack trace

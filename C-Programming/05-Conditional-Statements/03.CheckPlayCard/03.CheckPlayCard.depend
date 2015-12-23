@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1445237414 source:c:\users\nemo\documents\programming\fasttrack\c programming\my-homework\05-conditional-statements\03.checkplaycard\main.c
+	<stdio.h>
+	<string.h>
+

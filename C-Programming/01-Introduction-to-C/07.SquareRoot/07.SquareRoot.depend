@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1444725880 source:c:\users\nemo\documents\programming\fasttrack\c programming\my-homework\01. introduction-to-c\07.squareroot\main.c
+	<stdio.h>
+	<math.h>
+

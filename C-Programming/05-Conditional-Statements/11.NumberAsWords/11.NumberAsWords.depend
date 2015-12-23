@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1445249612 source:c:\users\nemo\documents\programming\fasttrack\c programming\my-homework\05-conditional-statements\11.numberaswords\main.c
+	<stdio.h>
+	<stdlib.h>
+

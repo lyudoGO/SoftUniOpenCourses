@@ -1,0 +1,27 @@
+1.What is C, What is C++, and What is the Difference?
+2.C is a programming language originally developed for developing the Unix operating system. 
+3.It is a low-level and powerful language, but it lacks many modern and useful constructs. 
+4.C++ is a newer language, based on C, that adds many more modern programming language 
+5.features that make it easier to program than C. 
+6.
+7.Basically, C++ maintains all aspects of the C language, while providing new features 
+8.to programmers that make it easier to write useful and sophisticated programs.
+9.
+10.For example, C++ makes it easier to manage memory and adds several features to 
+11.allow "object-oriented" programming and "generic" programming. Basically, 
+12.it makes it easier for programmers to stop thinking about the nitty-gritty 
+13.details of how the machine works and think about the problems they are trying to solve.
+14.So, what is C++ used for?
+15.
+16.C++ is a powerful general-purpose programming language. It can be used to create
+17.small programs or large applications. It can be used to make CGI scripts or 
+18.console-only DOS programs. C++ allows you to create programs to do almost 
+19.anything you need to do. The creator of C++, Bjarne Stroustrup, has put together
+20.a partial list of applications written in C++.
+21.How do you learn C++?
+22.
+23.No special knowledge is needed to learn C++, and if you are an independent 
+24.learner, you can probably learn C++ from online tutorials or from books. 
+25.There are plenty of free tutorials online, including Cprogramming.com's C++ 
+26.tutorial - one which requires no prior programming experience. 
+27.You can also pick out programming books from our recommendations. 

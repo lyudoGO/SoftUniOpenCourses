@@ -1,0 +1,7 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=6115D511
+eax=0000000A ebx=00403064 ecx=00000000 edx=0000000A esi=00000000 edi=0000000A
+ebp=0022C178 esp=0022C174 program=C:\Users\nemo\Documents\Programming\FastTrack\C Programming\My-homework\11-C-Characters-Strings\08.ImplementStringConcatenationFunction\dist\Debug\Cygwin_4.x-Windows\08.implementstringconcatenationfunction, pid 2876, thread main
+cs=001B ds=0023 es=0023 fs=003B gs=0000 ss=0023
+Stack trace:
+Frame     Function  Args
+0022C178  6115D511 (0000000A, 0022C244, 00403064, 00000001)

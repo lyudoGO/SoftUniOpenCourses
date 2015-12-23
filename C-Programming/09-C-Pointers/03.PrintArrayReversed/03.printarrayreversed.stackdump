@@ -1,0 +1,10 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=004012B5
+eax=FFFFFFFC ebx=0022CB90 ecx=00000000 edx=FFFFFFF0 esi=20040E64 edi=611CCFAE
+ebp=0022CB68 esp=0022CB40 program=C:\Users\nemo\Documents\Programming\FastTrack\C Programming\My-homework\09-C-Pointers\03.PrintArrayReversed\dist\Debug\Cygwin_4.x-Windows\03.printarrayreversed, pid 1480, thread main
+cs=001B ds=0023 es=0023 fs=003B gs=0000 ss=0023
+Stack trace:
+Frame     Function  Args
+0022CB68  004012B5 (0022CB78, 00000004, 00000001, 00000002)
+0022CBB8  0040126F (20040E64, 611CCFAE, 0022CD28, 6100845A)
+0022CD28  6100845A (00000000, 0022CD84, 610074E0, 00000000)
+End of stack trace

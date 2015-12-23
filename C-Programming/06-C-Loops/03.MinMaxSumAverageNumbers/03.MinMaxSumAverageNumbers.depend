@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1445454300 source:c:\users\nemo\documents\programming\fasttrack\c programming\my-homework\06-c-loops\03.minmaxsumaveragenumbers\main.c
+	<stdio.h>
+	<limits.h>
+

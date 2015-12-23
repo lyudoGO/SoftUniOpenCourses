@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1445672721 source:c:\users\nemo\documents\programming\fasttrack\c programming\my-homework\06-c-loops\13.binarytodecimalnumber\main.c
+	<stdio.h>
+	<string.h>
+

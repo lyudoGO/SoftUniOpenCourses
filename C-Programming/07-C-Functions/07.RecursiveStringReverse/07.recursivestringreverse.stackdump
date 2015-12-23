@@ -1,0 +1,10 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=0040124B
+eax=00000073 ebx=0022CBEC ecx=00000003 edx=00000000 esi=20040E6D edi=611CCFAE
+ebp=0022CB38 esp=0022CB20 program=C:\Users\nemo\Documents\Programming\FastTrack\C Programming\My-homework\07-C-Functions\07.RecursiveStringReverse\dist\Debug\Cygwin_4.x-Windows\07.recursivestringreverse, pid 3152, thread main
+cs=001B ds=0023 es=0023 fs=003B gs=0000 ss=0023
+Stack trace:
+Frame     Function  Args
+0022CB38  0040124B (0022CB50, 00000000, 00000003, 00000000)
+0022CBC8  00401219 (00000001, 0022CBEC, 200280E8, 610083FB)
+0022CD28  6100845A (00000000, 0022CD84, 610074E0, 00000000)
+End of stack trace

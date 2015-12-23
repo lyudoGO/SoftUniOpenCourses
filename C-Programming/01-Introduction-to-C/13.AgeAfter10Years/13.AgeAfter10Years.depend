@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1444725088 source:c:\users\nemo\documents\programming\fasttrack\c programming\my-homework\01. introduction-to-c\13.ageafter10years\main.c
+	<stdio.h>
+	<time.h>
+

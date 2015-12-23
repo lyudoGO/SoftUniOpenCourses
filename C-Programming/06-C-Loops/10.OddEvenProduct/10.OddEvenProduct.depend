@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1445546449 source:c:\users\nemo\documents\programming\fasttrack\c programming\my-homework\06-c-loops\10.oddevenproduct\main.c
+	<stdio.h>
+	<string.h>
+
