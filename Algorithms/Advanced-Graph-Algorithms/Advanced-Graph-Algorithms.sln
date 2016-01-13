@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.ExtendCableNetwork", "ExtendCableNetwork\01.ExtendCableNetwork.csproj", "{C64E12FE-D431-460D-ABC5-1E1E1DBFE700}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ModifiedKruskalAlgorithm", "ModifiedKruskalAlgorithm\02.ModifiedKruskalAlgorithm.csproj", "{6DA967D0-080C-491E-B8F0-96396CB16CCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.MostReliablePath", "MostReliablePath\03.MostReliablePath.csproj", "{DE4C4D24-60B6-49ED-A242-44206975CDEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ShortestPathsPairsNodes", "ShortestPathsPairsNodes\04.ShortestPathsPairsNodes.csproj", "{6ACEF518-44A0-460F-B386-5A1AF85A5BB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.ShortestPathsNegativeEdges", "ShortestPathsNegativeEdges\05.ShortestPathsNegativeEdges.csproj", "{A109CE97-BBE5-46FF-8E1F-F312DE949705}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C64E12FE-D431-460D-ABC5-1E1E1DBFE700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C64E12FE-D431-460D-ABC5-1E1E1DBFE700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C64E12FE-D431-460D-ABC5-1E1E1DBFE700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C64E12FE-D431-460D-ABC5-1E1E1DBFE700}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DA967D0-080C-491E-B8F0-96396CB16CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DA967D0-080C-491E-B8F0-96396CB16CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DA967D0-080C-491E-B8F0-96396CB16CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DA967D0-080C-491E-B8F0-96396CB16CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE4C4D24-60B6-49ED-A242-44206975CDEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE4C4D24-60B6-49ED-A242-44206975CDEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE4C4D24-60B6-49ED-A242-44206975CDEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE4C4D24-60B6-49ED-A242-44206975CDEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ACEF518-44A0-460F-B386-5A1AF85A5BB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ACEF518-44A0-460F-B386-5A1AF85A5BB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ACEF518-44A0-460F-B386-5A1AF85A5BB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ACEF518-44A0-460F-B386-5A1AF85A5BB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A109CE97-BBE5-46FF-8E1F-F312DE949705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A109CE97-BBE5-46FF-8E1F-F312DE949705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A109CE97-BBE5-46FF-8E1F-F312DE949705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A109CE97-BBE5-46FF-8E1F-F312DE949705}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
