@@ -1,0 +1,11 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=004016BC
+eax=0000001F ebx=0022CB70 ecx=0000001F edx=0000001F esi=20041106 edi=611CCFAE
+ebp=0022CB38 esp=0022CB34 program=C:\Users\nemo\Documents\Programming\FastTrack\C Programming\Exam-Sample\02.BitwiseMinesweeper\dist\Debug\Cygwin_4.x-Windows\02.bitwiseminesweeper, pid 2300, thread main
+cs=001B ds=0023 es=0023 fs=003B gs=0000 ss=0023
+Stack trace:
+Frame     Function  Args
+0022CB38  004016BC (0000001F, 00000000, 00403065, 0022CB68)
+0022CB58  004015E6 (0022CB6C, 00000000, 00000010, 0000001F)
+0022CBC8  004012FB (20041106, 611CCFAE, 0022CD28, 6100845A)
+0022CD28  6100845A (00000000, 0022CD84, 610074E0, 00000000)
+End of stack trace
